@@ -24,7 +24,7 @@ export default function Slider() {
                        <div class="item">
                           <div class="protect_box text_align_center">
                             <div class="desktop">
-                               <i><img src="images/pro1.png" alt="#"/></i>
+                               <i><img src="" alt="#"/></i>
                              <h3> Wear Mask</h3>
                              <span> Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for</span>
                             </div>
