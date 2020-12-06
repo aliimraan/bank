@@ -3,7 +3,7 @@ import './slider.css'
 
 export default function Slider() {
     return (
-        <div>
+        <div className="0">
          <div class="protect">
            <div class="container">
               <div class="row">
